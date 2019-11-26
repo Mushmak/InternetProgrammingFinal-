@@ -1,0 +1,29 @@
+h1{
+    padding-top: 1%;
+    margin-top: 0%;
+    color: pink; 
+    text-align: center;
+}
+.background{
+    background: gray;
+    display: flex;
+    flex-direction: column;
+}
+.background> *{
+    width: 80%;
+    
+}
+button{
+    margin-left: 5%;
+}
+.mat-form-field{
+   padding-left: 5%;
+   padding-top: 2%;
+   
+} 
+
+h2{
+    padding-left: 5% ;
+    padding-top: 5%;
+    color: pink;
+}

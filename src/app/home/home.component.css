@@ -1,0 +1,22 @@
+
+
+    .bgimg {
+        display:block;
+        width:100%;
+        height:93.2%;
+        background: url('https://i.imgur.com/ajCjJ24.png') no-repeat center center fixed ;
+        background-size: cover;
+        text-align: center;
+        font-size: 50px;
+        
+      }
+        
+    .welcome-text{
+        position: absolute;
+        top: 40%;
+        left: 10%;
+        color: #FFD577;
+        text-shadow: 5px 5px grey;
+    }
+
+    

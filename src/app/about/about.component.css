@@ -1,0 +1,11 @@
+.mat-card-image{
+    width: 35%;
+    margin-left: 20%;
+}
+.mat-card-actions{
+    margin-left: 60%;
+}
+
+.mat-card-footer{
+    margin: 1%;
+}

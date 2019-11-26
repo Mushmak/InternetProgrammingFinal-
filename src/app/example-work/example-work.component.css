@@ -1,0 +1,33 @@
+.img{
+    padding-top: 5%;
+    background:gray;
+    padding-bottom: 14.5%
+ 
+}
+.work1{
+    transition: transform;
+}
+.work1:hover{
+    transform: scale(1.5);
+}
+
+.work2{
+    transition: transform;
+}
+.work2:hover{
+    transform: scale(1.5);
+}
+
+.work3{
+    transition: transform;
+}
+.work3:hover{
+    transform: scale(1.5);
+}
+
+.work4{
+    transition: transform;
+}
+.work4:hover{
+    transform: scale(1.5);
+}
